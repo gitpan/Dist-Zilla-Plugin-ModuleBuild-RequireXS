@@ -1,6 +1,6 @@
 package Dist::Zilla::Plugin::ModuleBuild::RequireXS;
 {
-  $Dist::Zilla::Plugin::ModuleBuild::RequireXS::VERSION = '0.01'; # TRIAL
+  $Dist::Zilla::Plugin::ModuleBuild::RequireXS::VERSION = '0.01';
 }
 
 use strict;
